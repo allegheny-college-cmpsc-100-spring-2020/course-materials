@@ -7,6 +7,7 @@ This repository hosts materials which describe the structure and operation this 
 * [Syllabus](Syllabus/CMPSC%20100%20-%20Syllabus.pdf)
 * [Course schedule](https://docs.google.com/spreadsheets/d/1MzJ7nBsTnJiAB8_5iMOdA-K4L3J4oGIcIAaJVTBJyHk/edit?usp=sharing)
 * [Course Slack channel](https://cmpsc-100-02-sp-2020.slack.com)
+* **NEW!** [Course project due dates board](https://github.com/orgs/allegheny-college-cmpsc-100-spring-2020/projects/1)
 * [Faculty page](https://www.cs.allegheny.edu/sites/dluman/)
     * Book student hours, find helpful links for the course
     
